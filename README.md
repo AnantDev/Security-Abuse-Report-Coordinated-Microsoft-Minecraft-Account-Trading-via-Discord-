@@ -115,10 +115,3 @@ Reporter Contact Information
 
 Appendix A: Discord Servers Observed
 This appendix is intended solely for MSRC / Discord Trust & Safety review as part of a takedown investigation. It should not be published, screenshotted, or shared publicly — doing so would circulate active invite links to the same abusive communities this report is trying to get shut down.
-	•	discord.gg/D83HxCVDW
-	•	discord.gg/eH7TZrDfJ
-	•	discord.gg/ZycTTfSgH
-	•	discord.gg/ZmcCGGaJK
-	•	discord.gg/UtVJ3gnMf
-	•	discord.gg/fcop
-	•	discord.gg/FdEgCxZN
